@@ -15,4 +15,8 @@ def replace_about(data, lang: str, raw_temp: str) -> str:
     s = s.replace(WM_TEMPLATE_VARIABLE, d['collaborations'])
     s = s.replace(TERM_TEMPLATE_VARIABLE, d['colDes'])
     s = s.replace(SHELL_TEMPLATE_VARIABLE, d['skill'])
+    s = s.replace("@ABOUT_BIO", d.get('bio', ''))
+    s = s.replace("@EXPERIENCE_TITLE", d.get('exp_title', ''))
+    s = s.replace("@EXPERIENCE_CONTENT", d.get('exp_content', ''))
+    s = s.replace("@PROJECTS_TITLE", d.get('projects_title', ''))
     return s

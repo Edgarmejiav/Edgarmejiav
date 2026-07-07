@@ -1,6 +1,10 @@
 {
-  "header": "¡Hey! \uD83D\uDC4B Soy Edgar\n",
+  "header": "¡Hey! 👋 Soy Edgar\n",
   "collaborations": "Colaboraciones",
-  "colDes": "¡Estoy abierto a colaboraciones interesantes! Si tienes un proyecto interesante en mente o si crees que puedo contribuir\na tu equipo, no dudes en contactarme. Estoy dispuesto a explorar nuevas oportunidades y aportar mis habilidades a\nproyectos innovadores.",
-  "skill": "Lenguajes y tecnologias"
+  "colDes": "¡Estoy abierto a colaboraciones interesantes! Si tienes un proyecto interesante en mente o si crees que puedo contribuir a tu equipo, no dudes en contactarme. Estoy dispuesto a explorar nuevas oportunidades y aportar mis habilidades a proyectos innovadores.",
+  "skill": "Lenguajes y tecnologías",
+  "bio": "Software Engineer con 5 años de experiencia en desarrollo de software (Node.js, Python, Java, Linux), utilizando frameworks y tecnologías como React, Vue, Angular, NestJS, C# y PostgreSQL. Especializado en la creación de soluciones escalables y eficientes tanto en el frontend como en el backend. He liderado equipos multidisciplinarios, impulsando la colaboración y la innovación.",
+  "exp_title": "Experiencia Profesional",
+  "exp_content": "\n#### 🏢 **Inetum (Belcorp)** | *Software Engineer*\n> **Junio 2024 – Actualidad**\n* ⚙️ **Orquestación de Microservicios:** Desarrollo en C# (.NET), integrando de manera eficiente servicios transaccionales en Java (Spring Boot), FastAPI y React.\n* 📊 **Optimización de Datos:** Optimización de sincronización BPlanner y diseño de procesos ETL con PostgreSQL, mejorando consultas en más de 30%.\n* ☁️ **Servicios Cloud:** Integración con AWS S3 y plataformas internas, asegurando la escalabilidad.\n* 🛡️ **Seguridad & Calidad:** Implementación de validaciones críticas de seguridad y mejora en 26% de la mantenibilidad del código aplicando Clean Architecture.\n\n#### 🏢 **Datecsoft S.R.L.** | *Full-Stack Developer*\n> **Octubre 2024 – Abril 2025**\n* 🗄️ **Modelado de BD:** Diseño de estructuras eficientes en PostgreSQL integradas con Docker.\n* 🎨 **Frontend Moderno:** Creación de interfaces de usuario responsivas con Angular, Tailwind CSS y Bootstrap.\n* 📈 **Optimización SEO:** Aplicación de estrategias SEO que incrementaron el tráfico orgánico en un 60%.\n",
+  "projects_title": "Proyectos Destacados"
 }

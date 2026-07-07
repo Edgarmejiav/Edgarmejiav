@@ -1,6 +1,10 @@
 {
-  "header": "!Hey! \uD83D\uDC4B I'm Edgar\n",
+  "header": "Hey! 👋 I'm Edgar\n",
   "collaborations": "Collaborations",
   "colDes": "I'm open to interesting collaborations! If you have an exciting project in mind or think I can contribute to your team, don't hesitate to contact me. I'm willing to explore new opportunities and bring my skills to innovative projects.",
-  "skill": "Languages and technologies"
+  "skill": "Languages and technologies",
+  "bio": "Software Engineer with 5 years of experience in software development (Node.js, Python, Java, Linux), utilizing frameworks and technologies like React, Vue, Angular, NestJS, C#, and PostgreSQL. Specialized in creating scalable and efficient solutions for both frontend and backend. Experienced in leading multidisciplinary teams, driving collaboration and innovation.",
+  "exp_title": "Professional Experience",
+  "exp_content": "\n#### 🏢 **Inetum (Belcorp)** | *Software Engineer*\n> **June 2024 – Present**\n* ⚙️ **Microservices Orchestration:** Developed in C# (.NET) and integrated transactional services in Java (Spring Boot), FastAPI, and React.\n* 📊 **Data Optimization:** Optimized BPlanner synchronization flows and designed ETL processes with PostgreSQL, improving query performance by over 30%.\n* ☁️ **Cloud Services:** Integrated AWS S3 and internal systems to ensure high scalability.\n* 🛡️ **Security & Quality:** Implemented critical security checks and improved maintainability by 26% using Clean Architecture.\n\n#### 🏢 **Datecsoft S.R.L.** | *Full-Stack Developer*\n> **October 2024 – April 2025**\n* 🗄️ **DB Modeling:** Designed highly efficient database structures in PostgreSQL integrated with Docker.\n* 🎨 **Modern Frontend:** Developed responsive, high-performance UIs using Angular, Tailwind CSS, and Bootstrap.\n* 📈 **SEO Optimization:** Implemented SEO strategies that boosted organic traffic by 60%.\n",
+  "projects_title": "Featured Projects"
 }
