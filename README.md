@@ -26,6 +26,7 @@
 
 ### ⚡ ¡Hey! 👋 Soy Edgar
 
+
 Software Engineer con 5 años de experiencia en desarrollo de software (Node.js, Python, Java, Linux), utilizando frameworks y tecnologías como React, Vue, Angular, NestJS, C# y PostgreSQL. Especializado en la creación de soluciones escalables y eficientes tanto en el frontend como en el backend. He liderado equipos multidisciplinarios, impulsando la colaboración y la innovación.
 
 ---
