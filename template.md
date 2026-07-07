@@ -45,8 +45,23 @@
 
 # 🚀 @ABOUT_SKILL :
 
+### 💻 Frontend
 <p align="center">
   <a href="https://www.linkedin.com/in/legamejiav/">
-    <img src="https://skillicons.dev/icons?i=git,js,react,vue,next,angular,tailwind,css,html,vite,webpack,vercel,linux,nodejs,materialui,jest,figma,fastapi,express" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,vue,angular,tailwind,bootstrap,materialui,styledcomponents,webpack,vite,storybook" />
+  </a>
+</p>
+
+### ⚙️ Backend & Databases
+<p align="center">
+  <a href="https://www.linkedin.com/in/legamejiav/">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,fastapi,nestjs,nodejs,express,postgres,mongodb,mysql" />
+  </a>
+</p>
+
+### ☁️ DevOps, Cloud & Tools
+<p align="center">
+  <a href="https://www.linkedin.com/in/legamejiav/">
+    <img src="https://skillicons.dev/icons?i=docker,linux,aws,azure,githubactions,vercel,jest,selenium,postman,git,figma,jira,notion" />
   </a>
 </p>
