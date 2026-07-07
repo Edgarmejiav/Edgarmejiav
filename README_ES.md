@@ -10,7 +10,7 @@
   <p align="center"><strong>🚀 Software Engineer | Full-Stack Developer</strong></p>
   
   <p align="center">
-    <a href="https://edgarmejiav.vercel.app" target="_blank">
+    <a href="https://www.lega.dev" target="_blank">
       <img alt="Website" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/legamejiav/" target="_blank">
