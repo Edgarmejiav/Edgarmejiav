@@ -65,6 +65,6 @@ proyectos innovadores.**
 ### ☁️ DevOps, Cloud & Tools
 <p align="center">
   <a href="https://www.linkedin.com/in/legamejiav/">
-    <img src="https://skillicons.dev/icons?i=docker,linux,aws,azure,githubactions,vercel,jest,selenium,postman,git,figma,notion" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,aws,azure,githubactions,vercel,jest,selenium,postman,git,figma,jira,notion" />
   </a>
 </p>
