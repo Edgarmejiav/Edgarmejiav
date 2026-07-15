@@ -60,16 +60,16 @@
 ## 📈 GitHub Analytics & Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=edgarmejiav&theme=blueberry&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Edgarmejiav&theme=blueberry&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edgarmejiav&theme=blueberry" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edgarmejiav&theme=blueberry" alt="Profile Details" />
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edgarmejiav&theme=blueberry&exclude=CSS,ShaderLab" alt="Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edgarmejiav&theme=blueberry&exclude=CSS,ShaderLab" alt="Commits" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edgarmejiav&theme=blueberry&exclude=CSS,ShaderLab" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edgarmejiav&theme=blueberry&exclude=CSS,ShaderLab" alt="Commits" />
 </div>
 
 ---
